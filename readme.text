@@ -1,0 +1,3 @@
+1. rename env to .env
+2. php artisan migrate
+3. akses localhost/upload
